@@ -15,7 +15,7 @@ def main():
         
         #print result
         #attr = {}
-        link = 40
+        link = 74
         for r in range(500):
             d = dict()
             attr = dict()
@@ -195,9 +195,9 @@ def main():
             final = dict()
             bttr_final = dict()
             cttr_final = dict()
-            final[str(link)+'a'] = attr
-            final[str(link)+'b'] = bttr
-            final[str(link)+'c'] = cttr
+            final['a'] = attr
+            final['b'] = bttr
+            final['c'] = cttr
             with open('fundhouse.json', 'a') as fundhouse:
                 fundhouse.write(json.dumps(bttr, indent=2))
                 fundhouse.write(',')
