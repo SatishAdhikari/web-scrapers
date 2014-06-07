@@ -132,7 +132,7 @@ main()
 for i in range(20):
 
 	driver.find_element_by_id("ctl00_ContentPlaceHolder1_ucDataPager_btnNext").click()
-	time.sleep(8)  #### let him sleep till the page loads :D :D 
+	time.sleep(8)  #### stay away bitch :| let him sleep till the page loads :D :D  
 	main()
 
 	
