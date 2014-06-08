@@ -10,12 +10,12 @@ driver.get("http://www.fundsupermart.co.in/main/fundinfo/generateTable.svdo")
 
 def main():
 
-	    
-	    
+        
+        
         
         #print result
         #attr = {}
-        link = 74
+        link = 50
         for r in range(500):
             d = dict()
             attr = dict()
@@ -28,7 +28,7 @@ def main():
             result[link].click()
             
             #driver.get
-    	    time.sleep(5)
+            time.sleep(5)
             tables = driver.find_elements_by_xpath('//table[@bgcolor="#CCCCCC"]')
             #print tables
 
@@ -150,6 +150,7 @@ def main():
             attr['benchmark']                   = d.get('Benchmark')[0]
             attr['country']                     = d.get('fundhouse_country')
             attr['fundHouseId']                 = str(u1)
+            attr['link']                        = link + r
 
             bttr['name']                        = d.get('fundhouse_name')
             bttr['email']                       = d.get('Email')
@@ -198,18 +199,18 @@ def main():
             final['a'] = attr
             final['b'] = bttr
             final['c'] = cttr
-            with open('fundhouse.json', 'a') as fundhouse:
+            with open('fundhouse1.json', 'a') as fundhouse:
                 fundhouse.write(json.dumps(bttr, indent=2))
                 fundhouse.write(',')
-            with open('fundmetrics.json', 'a') as fundmetrics:
+            with open('fundmetrics1.json', 'a') as fundmetrics:
                 fundmetrics.write(json.dumps(cttr, indent=2))
                 fundmetrics.write(',')
-            with open('funds.json', 'a') as funds:
+            with open('funds1.json', 'a') as funds:
                 funds.write(json.dumps(attr, indent=2))
                 funds.write(',')
 
 
-            with open('data.json', 'a') as data:
+            with open('data1.json', 'a') as data:
                 data.write(json.dumps(final, indent=2))
                 data.write(",")
 
@@ -218,5 +219,4 @@ def main():
             link += 1
 
 main()
-
 
