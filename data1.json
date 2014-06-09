@@ -1,0 +1,6244 @@
+[{
+  "a": {
+    "startDate": "May 30, 2012", 
+    "endDate": "N/A", 
+    "founded": "May 30, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Income", 
+    "exitLoad": "0.25% if the investments is redeemed / switched out within 1 month form the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "AXIS BANKING DEBT FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0077", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 1,191.33 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.8", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "4.8", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "9.15", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "9.13", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},
+{
+  "a": {
+    "startDate": "November 8, 0011", 
+    "endDate": "N/A", 
+    "founded": "November 8, 0011", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Capital Protection Oriented", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Hybrid", 
+    "name": "AXIS CAPITAL PROTECTION ORIENTED FUND SERIES 1- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0171", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 14.46 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "12.9", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "sixMonthsReturnPrice": "14.5", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  10.36"
+    ], 
+    "oneYearReturnPrice": [
+      "18.50", 
+      "  13.16"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 15, 2012", 
+    "endDate": "N/A", 
+    "founded": "October 15, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Capital Protection Oriented", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "Crisil MIP Blended Index", 
+    "fundCategory": "Hybrid", 
+    "name": "AXIS CAPITAL PROTECTION ORIENTED FUND SERIES 5- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0093", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 12.74 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "13.8", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "sixMonthsReturnPrice": "15.0", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  10.36"
+    ], 
+    "oneYearReturnPrice": [
+      "17.51", 
+      "  13.16"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "January 10, 2012", 
+    "endDate": "N/A", 
+    "founded": "January 10, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "GILT - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "Crisil 10-year Gilt Index", 
+    "fundCategory": "Debt", 
+    "name": "AXIS CONSTANT MATURITY 10 YEAR FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0043", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 11.26 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "4.9", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.34"
+    ], 
+    "sixMonthsReturnPrice": "7.1", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  6.55"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "5.19", 
+      "  7.65"
+    ], 
+    "oneYearReturnPrice": [
+      "-1.58", 
+      "  1.53"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "April 6, 2011", 
+    "endDate": "N/A", 
+    "founded": "April 6, 2011", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Income", 
+    "exitLoad": "1% if redeemed/switched out within 12 months from date of allotment.", 
+    "minSubsequentInvest": "Rs. 100 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Composite Bond Fund index", 
+    "fundCategory": "Debt", 
+    "name": "AXIS DYNAMIC BOND FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0101", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "3.3", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 12.94 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "4.8", 
+    "threeYearReturnPrice": [
+      "8.60", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "6.6", 
+    "threeYearSharpeRatioPrice": "0.7", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "3.3", 
+    "twoYearReturnPrice": [
+      "8.43", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "3.60", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "January 5, 2010", 
+    "endDate": "N/A", 
+    "founded": "January 5, 2010", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Multi Cap", 
+    "exitLoad": "1%, if Units are redeemed / switched-out within 12 months from the date of allotment", 
+    "minSubsequentInvest": "Rs. 100 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Tree House Education & Accessories Ltd.": "1.79"
+      }, 
+      {
+        "PI Industries Ltd.": "1.15"
+      }, 
+      {
+        "IDFC Ltd.": "0.57"
+      }, 
+      {
+        "Exide Industries Ltd.": "0.50"
+      }, 
+      {
+        "Cadila Healthcare Ltd.": "0.31"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Bank Of Baroda": "1.89"
+      }, 
+      {
+        "Punjab National Bank": "1.70"
+      }, 
+      {
+        "Tata Steel Ltd.": "1.63"
+      }, 
+      {
+        "Torrent Power Ltd.": "1.27"
+      }, 
+      {
+        "SML Isuzu Ltd.": "0.10"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 94.37"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 5.63"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P CNX Nifty", 
+    "fundCategory": "Equity", 
+    "name": "AXIS EQUITY FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0003", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "16.77", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 16.99 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "23.9", 
+    "threeYearReturnPrice": [
+      "16.72", 
+      "  13.41"
+    ], 
+    "sixMonthsReturnPrice": "26.1", 
+    "threeYearSharpeRatioPrice": "0.65", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  14.42"
+    ], 
+    "oneYearStandardDeviation": "16.77", 
+    "twoYearReturnPrice": [
+      "30.54", 
+      "  26.40"
+    ], 
+    "oneYearReturnPrice": [
+      "33.15", 
+      "  36.76"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "517.1 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 24, 2014", 
+    "endDate": "N/A", 
+    "founded": "February 24, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 56 (370 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0191", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.31 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "3.1", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 26, 2014", 
+    "endDate": "N/A", 
+    "founded": "February 26, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 57 (397 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0194", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.28 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.8", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "March 3, 2014", 
+    "endDate": "N/A", 
+    "founded": "March 3, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 59 (391 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0200", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.26 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.6", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "March 6, 2014", 
+    "endDate": "N/A", 
+    "founded": "March 6, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 60 (389 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0203", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.25 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.5", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "March 7, 2014", 
+    "endDate": "N/A", 
+    "founded": "March 7, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 61 (1122 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0206", 
+    "threeYearVolatilityDate": "March 28, 2014", 
+    "priceDate": "March 28, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "March 28, 2014", 
+    "price": "Rs. 10.01 (March 28, 2014)", 
+    "threeMonthsReturnDate": "March 28, 2014", 
+    "threeYearSharpeRatioDate": "March 28, 2014", 
+    "threeMonthsReturnPrice": "-", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "March 13, 2014", 
+    "endDate": "N/A", 
+    "founded": "March 13, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 62 (383 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0209", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.23 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "-", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 6, 0014", 
+    "endDate": "N/A", 
+    "founded": "May 6, 0014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "FMP - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS FIXED TERM PLAN SERIES 65 (693 DAYS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0227", 
+    "threeYearVolatilityDate": "May 6, 2014", 
+    "priceDate": "May 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "May 6, 2014", 
+    "price": "Rs. 10.00 (May 6, 2014)", 
+    "threeMonthsReturnDate": "May 6, 2014", 
+    "threeYearSharpeRatioDate": "May 6, 2014", 
+    "threeMonthsReturnPrice": "-", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  9.51"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  -3.51"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  8.70"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "June 11, 0012", 
+    "endDate": "N/A", 
+    "founded": "June 11, 0012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Large Cap", 
+    "exitLoad": "1% if redeemed/ switchedout within 12 months fromthe date of allotment", 
+    "minSubsequentInvest": "Rs. 100 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "Primary benchmark - CNX Nifty Index, Additional benchmark - S&P BSE 200 Index", 
+    "fundCategory": "Equity", 
+    "name": "AXIS FOCUSED 25 FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0085", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 14.45 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "17.7", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  12.79"
+    ], 
+    "sixMonthsReturnPrice": "19.6", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  12.79"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  25.24"
+    ], 
+    "oneYearReturnPrice": [
+      "21.84", 
+      "  33.43"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},
+{
+  "a": {
+    "startDate": "September 30, 2011", 
+    "endDate": "N/A", 
+    "founded": "September 30, 2011", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "\"1% is payable if Units are redeemed / switched-out within 1 year from the date of allotment.\"", 
+    "minSubsequentInvest": "Rs. 100 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 100.00"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "Domestic price of gold", 
+    "fundCategory": "Hybrid", 
+    "name": "AXIS GOLD FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0035", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 9.63 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "-11.1", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "-12.0", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-7.29", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "-3.29", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "123.86 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 7, 2014", 
+    "endDate": "N/A", 
+    "founded": "May 7, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Income", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "-", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Closed-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "AXIS HYBRID FUND SERIES 12- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0230", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.15 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "-", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},
+{
+  "a": {
+    "startDate": "March 9, 2012", 
+    "endDate": "N/A", 
+    "founded": "March 9, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Income", 
+    "exitLoad": "1% if redeemed/switched out within 12 months from the date of allotment.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Composite Bond Fund index", 
+    "fundCategory": "Debt", 
+    "name": "AXIS INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0062", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 12.05 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "5.2", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "7.3", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "8.66", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "4.84", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "December 29, 2009", 
+    "endDate": "N/A", 
+    "founded": "December 29, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "ELSS", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 500 / -", 
+    "minRedemptionAmount": "Rs. 500", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Asian Paints Ltd.": "1.60"
+      }, 
+      {
+        "Mahindra & Mahindra Financial Services Ltd.": "1.34"
+      }, 
+      {
+        "Mahindra & Mahindra Ltd.": "1.33"
+      }, 
+      {
+        "Tata Motors Ltd.": "0.96"
+      }, 
+      {
+        "Sanofi India Ltd.": "0.83"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Siemens Ltd.": "1.59"
+      }, 
+      {
+        "Astra Microwave Products Ltd.": "1.22"
+      }, 
+      {
+        "Colgate-Palmolive (India) Ltd.": "0.82"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 96.34"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 3.66"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE 200", 
+    "fundCategory": "Equity", 
+    "name": "AXIS LONG TERM EQUITY FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 500 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0006", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "17.24", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 22.16 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "22.3", 
+    "threeYearReturnPrice": [
+      "21.22", 
+      "  14.30"
+    ], 
+    "sixMonthsReturnPrice": "31.5", 
+    "threeYearSharpeRatioPrice": "0.86", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  13.94"
+    ], 
+    "oneYearStandardDeviation": "17.24", 
+    "twoYearReturnPrice": [
+      "35.20", 
+      "  27.38"
+    ], 
+    "oneYearReturnPrice": [
+      "46.16", 
+      "  38.88"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "681.51 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 18, 0011", 
+    "endDate": "N/A", 
+    "founded": "February 18, 0011", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Midcap & Small Cap", 
+    "exitLoad": "1% if redeemed/ switchedout within 12 months fromthe date of allotment", 
+    "minSubsequentInvest": "Rs. 100 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P BSE Midcap Index", 
+    "fundCategory": "Equity", 
+    "name": "AXIS MIDCAP FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0074", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "22.53", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.54 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "38.0", 
+    "threeYearReturnPrice": [
+      "23.85", 
+      "  19.04"
+    ], 
+    "sixMonthsReturnPrice": "44.4", 
+    "threeYearSharpeRatioPrice": "0.8", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  19.65"
+    ], 
+    "oneYearStandardDeviation": "22.53", 
+    "twoYearReturnPrice": [
+      "39.02", 
+      "  33.83"
+    ], 
+    "oneYearReturnPrice": [
+      "52.66", 
+      "  55.11"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 8, 2009", 
+    "endDate": "N/A", 
+    "founded": "October 8, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "AXS", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "Crisil Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "AXIS TREASURY ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "AXS0094", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "0.42", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 1,452.21 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "9.49", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.5", 
+    "threeYearSharpeRatioPrice": "7.35", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "0.42", 
+    "twoYearReturnPrice": [
+      "9.34", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "9.49", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "AXIS ASSET MANAGEMENT COMPANY LTD.", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "Axis House, 1st Floor, Bombay Dyeing Mill Compound, Pandurang Budhkar Marg, Worli, Mumbai 400025 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 12, 2003", 
+    "endDate": "N/A", 
+    "founded": "October 12, 2003", 
+    "top5Holding": [
+      {
+        "Larsen & Toubro Ltd.": "  3.29"
+      }, 
+      {
+        "Tata Consultancy Services Ltd.": "  3.18"
+      }, 
+      {
+        "Muthoot Finance Ltd.": "  3.00"
+      }, 
+      {
+        "Maruti Suzuki India Ltd.": "  2.79"
+      }, 
+      {
+        "Divis Laboratories Ltd.": "  2.68"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Balanced", 
+    "exitLoad": "1% if redeemed on or before 12 months from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Infosys Ltd.": "3.15"
+      }, 
+      {
+        "Bata India Ltd.": "2.19"
+      }, 
+      {
+        "Reliance Industries Ltd.": "2.01"
+      }, 
+      {
+        "Mahindra & Mahindra Ltd.": "1.41"
+      }, 
+      {
+        "Asian Paints Ltd.": "1.05"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Muthoot Finance Ltd.": "3.00"
+      }, 
+      {
+        "Eicher Motors Ltd.": "2.40"
+      }, 
+      {
+        "DB Corp Ltd.": "2.36"
+      }, 
+      {
+        "Persistent Systems Ltd.": "1.95"
+      }, 
+      {
+        "JSW Steel Ltd.": "1.57"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 73.10"
+      }, 
+      {
+        "Debt": " 12.42"
+      }, 
+      {
+        "Other": " 14.48"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "IT - Software": " 9.76"
+      }, 
+      {
+        "Bank - Private": " 8.68"
+      }, 
+      {
+        "Pharmaceuticals & Drugs": " 6.78"
+      }, 
+      {
+        "Finance - NBFC": " 4.42"
+      }, 
+      {
+        "Steel/Sponge Iron/Pig Iron": " 3.90"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "Crisil Balanced Fund Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BARODA PIONEER BALANCE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0001", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "15.57", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 38.44 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "18.3", 
+    "threeYearReturnPrice": [
+      "10.44", 
+      "  13.33"
+    ], 
+    "sixMonthsReturnPrice": "21.3", 
+    "threeYearSharpeRatioPrice": "0.33", 
+    "fiveYearReturnPrice": [
+      "10.54", 
+      "  13.60"
+    ], 
+    "oneYearStandardDeviation": "15.57", 
+    "twoYearReturnPrice": [
+      "21.10", 
+      "  22.94"
+    ], 
+    "oneYearReturnPrice": [
+      "27.88", 
+      "  30.63"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "17.48 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "June 26, 2012", 
+    "endDate": "N/A", 
+    "founded": "June 26, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Banking", 
+    "exitLoad": "1.00% if redeemed on or before 365 days from the date of allotment of units, Nil if redeemed after 365 days from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CNX Bank Index", 
+    "fundCategory": "Equity", 
+    "name": "BARODA PIONEER BANKING AND FINANCIAL SERVICES FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0059", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 13.99 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "40.2", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  13.45"
+    ], 
+    "sixMonthsReturnPrice": "32.4", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  18.02"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  26.86"
+    ], 
+    "oneYearReturnPrice": [
+      "21.02", 
+      "  26.92"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 14, 2002", 
+    "endDate": "N/A", 
+    "founded": "February 14, 2002", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "GILT - Long Term", 
+    "exitLoad": "1% if redeemed on or before 12 months from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 57.90"
+      }, 
+      {
+        "Other": " 42.10"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "ISec MIBex", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER GILT FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0004", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "3.59", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.94 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "6.0", 
+    "threeYearReturnPrice": [
+      "10.27", 
+      "  8.34"
+    ], 
+    "sixMonthsReturnPrice": "7.5", 
+    "threeYearSharpeRatioPrice": "1.08", 
+    "fiveYearReturnPrice": [
+      "10.38", 
+      "  6.55"
+    ], 
+    "oneYearStandardDeviation": "3.59", 
+    "twoYearReturnPrice": [
+      "8.30", 
+      "  7.65"
+    ], 
+    "oneYearReturnPrice": [
+      "5.29", 
+      "  1.53"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "30.67 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 12, 2003", 
+    "endDate": "N/A", 
+    "founded": "October 12, 2003", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Large Cap", 
+    "exitLoad": "1% if redeemed on or before 12 months from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Tata Global Beverages Ltd.": "1.44"
+      }, 
+      {
+        "Pidilite Industries Ltd.": "1.40"
+      }, 
+      {
+        "Jet Airways (India) Ltd.": "1.31"
+      }, 
+      {
+        "Mahindra & Mahindra Ltd.": "1.22"
+      }, 
+      {
+        "Jaiprakash Associates Ltd.": "1.03"
+      }
+    ], 
+    "newEntry": [
+      {
+        "DB Corp Ltd.": "2.27"
+      }, 
+      {
+        "Shriram Transport Finance Company Ltd.": "1.41"
+      }, 
+      {
+        "Hindustan Zinc Ltd.": "1.24"
+      }, 
+      {
+        "Aditya Birla Nuvo Ltd.": "1.06"
+      }, 
+      {
+        "Tata Communications Ltd.": "1.02"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 98.91"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 1.09"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CNX 100", 
+    "fundCategory": "Equity", 
+    "name": "BARODA PIONEER GROWTH FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0007", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "20.56", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 65.77 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "24.1", 
+    "threeYearReturnPrice": [
+      "9.36", 
+      "  12.79"
+    ], 
+    "sixMonthsReturnPrice": "28.1", 
+    "threeYearSharpeRatioPrice": "0.24", 
+    "fiveYearReturnPrice": [
+      "9.84", 
+      "  12.79"
+    ], 
+    "oneYearStandardDeviation": "20.56", 
+    "twoYearReturnPrice": [
+      "24.25", 
+      "  25.24"
+    ], 
+    "oneYearReturnPrice": [
+      "35.52", 
+      "  33.43"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "149.76 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 14, 2002", 
+    "endDate": "N/A", 
+    "founded": "February 14, 2002", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Income", 
+    "exitLoad": "1% if redeemed on or before 12 months from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 91.03"
+      }, 
+      {
+        "Other": " 8.97"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Composite Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0010", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "3.5", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.95 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "5.9", 
+    "threeYearReturnPrice": [
+      "8.77", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "7.4", 
+    "threeYearSharpeRatioPrice": "0.71", 
+    "fiveYearReturnPrice": [
+      "7.48", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "3.5", 
+    "twoYearReturnPrice": [
+      "7.84", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "3.97", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "17.88 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 3, 2010", 
+    "endDate": "N/A", 
+    "founded": "May 3, 2010", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Infrastructure", 
+    "exitLoad": "1% If redeemed on or before 365 days from the date of allotment of units , NIL if redeemed after 365 days from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Reliance Industries Ltd.": "3.99"
+      }, 
+      {
+        "Engineers India Ltd.": "3.87"
+      }, 
+      {
+        "Steel Authority Of India Ltd.": "3.61"
+      }, 
+      {
+        "BEML Ltd.": "3.13"
+      }, 
+      {
+        "Siemens Ltd.": "1.65"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Jain Irrigation Systems Ltd.": "2.45"
+      }, 
+      {
+        "Gujarat Pipavav Port Ltd.": "2.12"
+      }, 
+      {
+        "Shriram Transport Finance Company Ltd.": "1.58"
+      }, 
+      {
+        "Coal India Ltd.": "1.25"
+      }, 
+      {
+        "Jaiprakash Power Ventures Ltd.": "0.96"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 97.51"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 2.49"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CNX 100", 
+    "fundCategory": "Equity", 
+    "name": "BARODA PIONEER INFRASTRUCTURE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0013", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "30.22", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 11.41 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "54.0", 
+    "threeYearReturnPrice": [
+      "8.54", 
+      "  8.50"
+    ], 
+    "sixMonthsReturnPrice": "52.5", 
+    "threeYearSharpeRatioPrice": "0.21", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  7.90"
+    ], 
+    "oneYearStandardDeviation": "30.22", 
+    "twoYearReturnPrice": [
+      "27.76", 
+      "  24.74"
+    ], 
+    "oneYearReturnPrice": [
+      "60.03", 
+      "  49.23"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "15.7 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 5, 2009", 
+    "endDate": "N/A", 
+    "founded": "February 5, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "10:50 AM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Liquid", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 73.81"
+      }, 
+      {
+        "Other": " 26.19"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "Crisil Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER LIQUID FUND- GROWTH #(OC)", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0016", 
+    "threeYearVolatilityDate": "June 8, 2014", 
+    "priceDate": "June 8, 2014", 
+    "threeYearVolatility": "0.29", 
+    "sixMonthsReturnDate": "June 8, 2014", 
+    "price": "Rs. 2,258.61 (June 8, 2014)", 
+    "threeMonthsReturnDate": "June 8, 2014", 
+    "threeYearSharpeRatioDate": "June 8, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "9.29", 
+      "  9.12"
+    ], 
+    "sixMonthsReturnPrice": "4.5", 
+    "threeYearSharpeRatioPrice": "10.11", 
+    "fiveYearReturnPrice": [
+      "7.84", 
+      "  15.54"
+    ], 
+    "oneYearStandardDeviation": "0.29", 
+    "twoYearReturnPrice": [
+      "9.07", 
+      "  8.60"
+    ], 
+    "oneYearReturnPrice": [
+      "9.28", 
+      "  9.20"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "7.32 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 5, 2009", 
+    "endDate": "N/A", 
+    "founded": "February 5, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "10:50 AM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Liquid", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER LIQUID FUND- INSTITUTIONAL PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0044", 
+    "threeYearVolatilityDate": "June 8, 2014", 
+    "priceDate": "June 8, 2014", 
+    "threeYearVolatility": "0.28", 
+    "sixMonthsReturnDate": "June 8, 2014", 
+    "price": "Rs. 1,495.54 (June 8, 2014)", 
+    "threeMonthsReturnDate": "June 8, 2014", 
+    "threeYearSharpeRatioDate": "June 8, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "9.43", 
+      "  9.12"
+    ], 
+    "sixMonthsReturnPrice": "4.6", 
+    "threeYearSharpeRatioPrice": "10.97", 
+    "fiveYearReturnPrice": [
+      "7.95", 
+      "  15.54"
+    ], 
+    "oneYearStandardDeviation": "0.28", 
+    "twoYearReturnPrice": [
+      "9.26", 
+      "  8.60"
+    ], 
+    "oneYearReturnPrice": [
+      "9.49", 
+      "  9.20"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 9, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 9, 2004", 
+    "top5Holding": [
+      {
+        "HDFC Bank Ltd.": "  0.93"
+      }, 
+      {
+        "Tata Steel Ltd.": "  0.90"
+      }, 
+      {
+        "Maruti Suzuki India Ltd.": "  0.87"
+      }, 
+      {
+        "Wipro Ltd.": "  0.84"
+      }, 
+      {
+        "Ipca Laboratories Ltd.": "  0.81"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "MIP", 
+    "exitLoad": "1% if redeemed on or before 12 months from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Tata Consultancy Services Ltd.": "1.02"
+      }, 
+      {
+        "Colgate-Palmolive (India) Ltd.": "0.87"
+      }, 
+      {
+        "Bharti Airtel Ltd.": "0.76"
+      }, 
+      {
+        "Asian Paints Ltd.": "0.74"
+      }, 
+      {
+        "Alstom T&D India Ltd.": "0.40"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Muthoot Finance Ltd.": "0.80"
+      }, 
+      {
+        "ITC Ltd.": "0.71"
+      }, 
+      {
+        "DB Corp Ltd.": "0.66"
+      }, 
+      {
+        "Supreme Industries Ltd.": "0.55"
+      }, 
+      {
+        "JSW Steel Ltd.": "0.52"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 17.61"
+      }, 
+      {
+        "Debt": " 66.99"
+      }, 
+      {
+        "Other": " 15.40"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "Bank - Private": " 2.52"
+      }, 
+      {
+        "IT - Software": " 2.48"
+      }, 
+      {
+        "Pharmaceuticals & Drugs": " 1.48"
+      }, 
+      {
+        "Steel/Sponge Iron/Pig Iron": " 1.42"
+      }, 
+      {
+        "Finance - NBFC": " 1.27"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL MIP Blended Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BARODA PIONEER MONTHLY INCOME PLAN (MIP) FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0020", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "4.88", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 16.87 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "7.0", 
+    "threeYearReturnPrice": [
+      "8.13", 
+      "  9.44"
+    ], 
+    "sixMonthsReturnPrice": "9.0", 
+    "threeYearSharpeRatioPrice": "0.4", 
+    "fiveYearReturnPrice": [
+      "6.71", 
+      "  8.53"
+    ], 
+    "oneYearStandardDeviation": "4.88", 
+    "twoYearReturnPrice": [
+      "10.91", 
+      "  11.26"
+    ], 
+    "oneYearReturnPrice": [
+      "11.92", 
+      "  12.06"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "4.33 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 13, 2010", 
+    "endDate": "N/A", 
+    "founded": "September 13, 2010", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Speciality", 
+    "exitLoad": "1% If redeemed on or before 365 days from the date of allotment of units , NIL if redeemed after 365 days from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "BEML Ltd.": "5.01"
+      }, 
+      {
+        "Power Grid Corporation Of India Ltd.": "2.06"
+      }, 
+      {
+        "Gujarat Gas Company Ltd.": "1.80"
+      }, 
+      {
+        "Bharat Electronics Ltd.": "1.31"
+      }, 
+      {
+        "Union Bank Of India": "1.31"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Andhra Bank": "2.10"
+      }, 
+      {
+        "Corporation Bank": "1.08"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 98.25"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 1.75"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE PSU Index", 
+    "fundCategory": "Equity", 
+    "name": "BARODA PIONEER PSU EQUITY FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0028", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "29.38", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 9.37 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "58.5", 
+    "threeYearReturnPrice": [
+      "3.58", 
+      "  12.52"
+    ], 
+    "sixMonthsReturnPrice": "52.1", 
+    "threeYearSharpeRatioPrice": "0.05", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  14.59"
+    ], 
+    "oneYearStandardDeviation": "29.38", 
+    "twoYearReturnPrice": [
+      "17.13", 
+      "  25.04"
+    ], 
+    "oneYearReturnPrice": [
+      "39.85", 
+      "  36.72"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "37.32 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "December 7, 2009", 
+    "endDate": "N/A", 
+    "founded": "December 7, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Income", 
+    "exitLoad": "0.50% If redeemed on or before 30 days from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 96.99"
+      }, 
+      {
+        "Other": " 3.01"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Composite Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER PUBLIC SECTOR UNDERTAKING (PSU) BOND FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0023", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "1.99", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 13.83 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.6", 
+    "threeYearReturnPrice": [
+      "8.72", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "4.2", 
+    "threeYearSharpeRatioPrice": "1.21", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "1.99", 
+    "twoYearReturnPrice": [
+      "8.65", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "6.15", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "17.85 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "June 14, 2010", 
+    "endDate": "N/A", 
+    "founded": "June 14, 2010", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Short Term", 
+    "exitLoad": "exit load- 0.10% if redeemed on or before 15days from the date of allotment, NIL if redeemed after 15days from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 95.51"
+      }, 
+      {
+        "Other": " 4.49"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER SHORT TERM BOND FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0035", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "1.61", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 13.47 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "3.1", 
+    "threeYearReturnPrice": [
+      "8.83", 
+      "  9.19"
+    ], 
+    "sixMonthsReturnPrice": "4.6", 
+    "threeYearSharpeRatioPrice": "1.55", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  13.07"
+    ], 
+    "oneYearStandardDeviation": "1.61", 
+    "twoYearReturnPrice": [
+      "8.77", 
+      "  9.10"
+    ], 
+    "oneYearReturnPrice": [
+      "7.48", 
+      "  7.82"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "8.95 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "June 10, 2009", 
+    "endDate": "N/A", 
+    "founded": "June 10, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 94.75"
+      }, 
+      {
+        "Other": " 5.25"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER TREASURY ADVANTAGE FUND- GROWTH #(OC)", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0031", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "0.72", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 1,476.22 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.6", 
+    "threeYearReturnPrice": [
+      "9.51", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.8", 
+    "threeYearSharpeRatioPrice": "4.33", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "0.72", 
+    "twoYearReturnPrice": [
+      "9.27", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "9.19", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "9.24 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "June 24, 2009", 
+    "endDate": "N/A", 
+    "founded": "June 24, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BRP", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BARODA PIONEER TREASURY ADVANTAGE FUND- INSTITUTIONAL PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BRP0049", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "0.71", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 1,482.80 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.6", 
+    "threeYearReturnPrice": [
+      "9.63", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.8", 
+    "threeYearSharpeRatioPrice": "4.53", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "0.71", 
+    "twoYearReturnPrice": [
+      "9.45", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "9.32", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "501 TITANIUM, 5TH Floor, Western Express Highway, Goregaon(E) Mumbai 400 063 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "November 8, 2008", 
+    "endDate": "N/A", 
+    "founded": "November 8, 2008", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Income", 
+    "exitLoad": "1% if redeemed/ switched-out upto 1 year from the date of subscription/ switch-in", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Composite Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS BOND FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0113", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "7.16", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 13.88 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "3.3", 
+    "threeYearReturnPrice": [
+      "8.05", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "4.9", 
+    "threeYearSharpeRatioPrice": "0.28", 
+    "fiveYearReturnPrice": [
+      "6.78", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "7.16", 
+    "twoYearReturnPrice": [
+      "7.55", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "6.88", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 15, 2005", 
+    "endDate": "N/A", 
+    "founded": "September 15, 2005", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Dividend Yield", 
+    "exitLoad": "1% upto to 1 year, > 1year-NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Kotak Mahindra Bank Ltd.": "1.06"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Sun Pharmaceutical Industries Ltd.": "1.60"
+      }, 
+      {
+        "Mindtree Ltd.": "1.58"
+      }, 
+      {
+        "ACC Ltd.": "1.31"
+      }, 
+      {
+        "Cummins India Ltd.": "1.11"
+      }, 
+      {
+        "Axis Bank Ltd.": "0.92"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 98.58"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 1.42"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE Sensitive Index", 
+    "fundCategory": "Equity", 
+    "name": "BNP PARIBAS DIVIDEND YIELD FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0007", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "17.1", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 27.78 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "28.4", 
+    "threeYearReturnPrice": [
+      "15.55", 
+      "  -"
+    ], 
+    "sixMonthsReturnPrice": "29.7", 
+    "threeYearSharpeRatioPrice": "0.58", 
+    "fiveYearReturnPrice": [
+      "18.28", 
+      "  -"
+    ], 
+    "oneYearStandardDeviation": "17.1", 
+    "twoYearReturnPrice": [
+      "27.83", 
+      "  -"
+    ], 
+    "oneYearReturnPrice": [
+      "40.39", 
+      "  -"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "20.35 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 23, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 23, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Large Cap", 
+    "exitLoad": "1% upto to 1 year, > 1year-NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Yes Bank Ltd.": "3.39"
+      }, 
+      {
+        "Divis Laboratories Ltd.": "1.01"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Sun Pharmaceutical Industries Ltd.": "3.11"
+      }, 
+      {
+        "State Bank Of India": "1.51"
+      }, 
+      {
+        "Punjab National Bank": "1.45"
+      }, 
+      {
+        "FAG Bearings India Ltd.": "1.07"
+      }, 
+      {
+        "Cummins India Ltd.": "0.98"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 99.48"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 0.52"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P CNX Nifty", 
+    "fundCategory": "Equity", 
+    "name": "BNP PARIBAS EQUITY FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0001", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "17.26", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 53.98 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "25.4", 
+    "threeYearReturnPrice": [
+      "16.64", 
+      "  12.79"
+    ], 
+    "sixMonthsReturnPrice": "27.0", 
+    "threeYearSharpeRatioPrice": "0.63", 
+    "fiveYearReturnPrice": [
+      "14.03", 
+      "  12.79"
+    ], 
+    "oneYearStandardDeviation": "17.26", 
+    "twoYearReturnPrice": [
+      "27.90", 
+      "  25.24"
+    ], 
+    "oneYearReturnPrice": [
+      "36.76", 
+      "  33.43"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "108.99 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 23, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 23, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Income", 
+    "exitLoad": "0.75% if redeemed / switched-out within 6 months from the date of subscription / switch-in Nil if redeemed / switched-out after 6 months from the date of subscription / switch-in", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 83.89"
+      }, 
+      {
+        "Other": " 16.11"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Composite Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS FLEXI DEBT FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0024", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.92", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 21.72 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "4.1", 
+    "threeYearReturnPrice": [
+      "8.50", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "6.2", 
+    "threeYearSharpeRatioPrice": "0.4", 
+    "fiveYearReturnPrice": [
+      "7.68", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "5.92", 
+    "twoYearReturnPrice": [
+      "9.85", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "5.32", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "286.25 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "April 18, 2013", 
+    "endDate": "N/A", 
+    "founded": "April 18, 2013", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "GILT - Long Term", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "I Sec Composite Gilt Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS GOVERNMENT SECURITIES FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0134", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.56 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "5.3", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.34"
+    ], 
+    "sixMonthsReturnPrice": "7.2", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  6.55"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  7.65"
+    ], 
+    "oneYearReturnPrice": [
+      "1.83", 
+      "  1.53"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 17, 2012", 
+    "endDate": "N/A", 
+    "founded": "May 17, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "1.00%, if redeemed or switched-out upto 12 months from the date of allotment of units. 0.50%, if redeemed or switched-out after completion of 12 months upto 18 months from the date of allotment of units. Nil, if redeemed or switched-out after 18 months from the date of allotment of units.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index + Price of Gold", 
+    "fundCategory": "Hybrid", 
+    "name": "BNP PARIBAS INCOME & GOLD FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0093", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.37 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "-2.2", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "-1.5", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "1.82", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "0.89", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 14, 2014", 
+    "endDate": "N/A", 
+    "founded": "February 14, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Income", 
+    "exitLoad": "1.00%, if redeemed or switched-out upto 15 months from the date of allotment of units. Nil, if redeemed or switched-out after 15 months from the date of allotment of units.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS MEDIUM TERM INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0169", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.37 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "3.7", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 2, 2006", 
+    "endDate": "N/A", 
+    "founded": "May 2, 2006", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Midcap & Small Cap", 
+    "exitLoad": "1% upto to 1 year, > 1year-NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Indian Bank": "2.37"
+      }, 
+      {
+        "Siemens Ltd.": "1.50"
+      }, 
+      {
+        "Just Dial Ltd.": "0.67"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Cummins India Ltd.": "1.84"
+      }, 
+      {
+        "Bharat Forge Ltd.": "1.53"
+      }, 
+      {
+        "Bharat Electronics Ltd.": "1.47"
+      }, 
+      {
+        "ACC Ltd.": "1.41"
+      }, 
+      {
+        "Bank Of Baroda": "1.05"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 96.55"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 3.45"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CNX MIDCAP Index", 
+    "fundCategory": "Equity", 
+    "name": "BNP PARIBAS MID CAP FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0010", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "26.88", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 18.11 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "34.4", 
+    "threeYearReturnPrice": [
+      "21.86", 
+      "  19.04"
+    ], 
+    "sixMonthsReturnPrice": "38.2", 
+    "threeYearSharpeRatioPrice": "0.64", 
+    "fiveYearReturnPrice": [
+      "24.72", 
+      "  19.65"
+    ], 
+    "oneYearStandardDeviation": "26.88", 
+    "twoYearReturnPrice": [
+      "34.56", 
+      "  33.83"
+    ], 
+    "oneYearReturnPrice": [
+      "55.10", 
+      "  55.11"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "47.19 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 21, 2005", 
+    "endDate": "N/A", 
+    "founded": "October 21, 2005", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "0.15% shall be charged if units are redeemed/ switched-out within 7 days from the date of investment.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS MONEY PLUS FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0094", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.9", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.75 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "9.59", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.4", 
+    "threeYearSharpeRatioPrice": "0.57", 
+    "fiveYearReturnPrice": [
+      "8.72", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "5.9", 
+    "twoYearReturnPrice": [
+      "7.78", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "8.93", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 21, 2005", 
+    "endDate": "N/A", 
+    "founded": "October 21, 2005", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "0.15% If redeemed / switched out within 7 days from the date of such Investment , CDSC - Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 86.91"
+      }, 
+      {
+        "Other": " 13.09"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS MONEY PLUS FUND- GROWTH #(OC)", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0049", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.13", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.13 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.3", 
+    "threeYearReturnPrice": [
+      "8.43", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.2", 
+    "threeYearSharpeRatioPrice": "0.44", 
+    "fiveYearReturnPrice": [
+      "8.03", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "5.13", 
+    "twoYearReturnPrice": [
+      "9.34", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "8.45", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "5.28 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 23, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 23, 2004", 
+    "top5Holding": [
+      {
+        "Shriram City Union Finance Ltd.": "  1.28"
+      }, 
+      {
+        "HDFC Bank Ltd.": "  1.08"
+      }, 
+      {
+        "ITC Ltd.": "  1.04"
+      }, 
+      {
+        "ICICI Bank Ltd.": "  0.99"
+      }, 
+      {
+        "Motherson Sumi Systems Ltd.": "  0.78"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "MIP", 
+    "exitLoad": "Exit Load - Nil, a CDSC of 1% is payable, if units are Redeemed / Switched-out within a period of less than or equal to 12 months from the date of allotment of such Subscription / Switch-In.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Yes Bank Ltd.": "0.67"
+      }, 
+      {
+        "Union Bank Of India": "0.21"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Sun Pharmaceutical Industries Ltd.": "0.48"
+      }, 
+      {
+        "Axis Bank Ltd.": "0.30"
+      }, 
+      {
+        "State Bank Of India": "0.29"
+      }, 
+      {
+        "Sobha Developers Ltd.": "0.03"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 19.48"
+      }, 
+      {
+        "Debt": " 68.07"
+      }, 
+      {
+        "Other": " 12.45"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "Bank - Private": " 3.30"
+      }, 
+      {
+        "IT - Software": " 1.83"
+      }, 
+      {
+        "Finance - NBFC": " 1.80"
+      }, 
+      {
+        "Pharmaceuticals & Drugs": " 1.69"
+      }, 
+      {
+        "Engineering - Construction": " 1.32"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL MIP Blended Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BNP PARIBAS MONTHLY INCOME PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0019", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.95", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.70 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "7.6", 
+    "threeYearReturnPrice": [
+      "9.49", 
+      "  9.44"
+    ], 
+    "sixMonthsReturnPrice": "9.0", 
+    "threeYearSharpeRatioPrice": "0.55", 
+    "fiveYearReturnPrice": [
+      "7.07", 
+      "  8.53"
+    ], 
+    "oneYearStandardDeviation": "5.95", 
+    "twoYearReturnPrice": [
+      "10.95", 
+      "  11.26"
+    ], 
+    "oneYearReturnPrice": [
+      "11.55", 
+      "  12.06"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "15.97 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 2, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 2, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "10:50 AM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Liquid", 
+    "exitLoad": "Exit Load : Nil", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS OVERNIGHT FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0108", 
+    "threeYearVolatilityDate": "June 8, 2014", 
+    "priceDate": "June 8, 2014", 
+    "threeYearVolatility": "5.82", 
+    "sixMonthsReturnDate": "June 8, 2014", 
+    "price": "Rs. 20.06 (June 8, 2014)", 
+    "threeMonthsReturnDate": "June 8, 2014", 
+    "threeYearSharpeRatioDate": "June 8, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "10.17", 
+      "  9.12"
+    ], 
+    "sixMonthsReturnPrice": "4.5", 
+    "threeYearSharpeRatioPrice": "0.67", 
+    "fiveYearReturnPrice": [
+      "7.46", 
+      "  15.54"
+    ], 
+    "oneYearStandardDeviation": "5.82", 
+    "twoYearReturnPrice": [
+      "8.64", 
+      "  8.60"
+    ], 
+    "oneYearReturnPrice": [
+      "9.44", 
+      "  9.20"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 13, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 13, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Short Term", 
+    "exitLoad": "0.50% shall be charged if units are redeemed/ switched-out upto 6 months from the date of subscription/ switch-in", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS SHORT TERM INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0101", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "7.04", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 14.78 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.9", 
+    "threeYearReturnPrice": [
+      "10.35", 
+      "  9.19"
+    ], 
+    "sixMonthsReturnPrice": "4.8", 
+    "threeYearSharpeRatioPrice": "0.58", 
+    "fiveYearReturnPrice": [
+      "8.13", 
+      "  13.07"
+    ], 
+    "oneYearStandardDeviation": "7.04", 
+    "twoYearReturnPrice": [
+      "11.00", 
+      "  9.10"
+    ], 
+    "oneYearReturnPrice": [
+      "7.55", 
+      "  7.82"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "January 25, 2006", 
+    "endDate": "N/A", 
+    "founded": "January 25, 2006", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "ELSS", 
+    "exitLoad": "This investment is subject to a lock in periodof 3 years from the date of allotment\".", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 500", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Cairn India Ltd.": "0.90"
+      }, 
+      {
+        "Rallis India Ltd.": "0.89"
+      }, 
+      {
+        "Repco Home Finance Ltd.": "0.16"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Sun Pharmaceutical Industries Ltd.": "2.05"
+      }, 
+      {
+        "Mindtree Ltd.": "1.53"
+      }, 
+      {
+        "Dr. Reddys Laboratories Ltd.": "1.09"
+      }, 
+      {
+        "Bharti Infratel Ltd.": "1.07"
+      }, 
+      {
+        "Cummins India Ltd.": "0.99"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 96.78"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 3.22"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE 200", 
+    "fundCategory": "Equity", 
+    "name": "BNP PARIBAS TAX ADVANTAGE PLAN (ELSS)- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0016", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "16.8", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 23.06 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "26.6", 
+    "threeYearReturnPrice": [
+      "18.07", 
+      "  14.30"
+    ], 
+    "sixMonthsReturnPrice": "29.8", 
+    "threeYearSharpeRatioPrice": "0.72", 
+    "fiveYearReturnPrice": [
+      "15.95", 
+      "  13.94"
+    ], 
+    "oneYearStandardDeviation": "16.8", 
+    "twoYearReturnPrice": [
+      "28.33", 
+      "  27.38"
+    ], 
+    "oneYearReturnPrice": [
+      "40.95", 
+      "  38.88"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "67.88 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 21, 0014", 
+    "endDate": "N/A", 
+    "founded": "February 21, 0014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "1 % if redeemed before 12 months from date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Hybrid", 
+    "name": "BOI AXA EQUITY DEBT REBALANCER FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 10,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0067", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.94 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "9.4", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 29, 2008", 
+    "endDate": "N/A", 
+    "founded": "October 29, 2008", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Multi Cap", 
+    "exitLoad": "1% if redeemed within one year from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "ACC Ltd.": "1.26"
+      }, 
+      {
+        "Bajaj Auto Ltd.": "1.07"
+      }, 
+      {
+        "Cummins India Ltd.": "0.51"
+      }, 
+      {
+        "Godfrey Phillips India Ltd.": "0.48"
+      }, 
+      {
+        "Agro Tech Foods Ltd.": "0.42"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Biocon Ltd.": "1.35"
+      }, 
+      {
+        "Bharat Forge Ltd.": "0.96"
+      }, 
+      {
+        "Natco Pharma Ltd.": "0.78"
+      }, 
+      {
+        "Alstom India Ltd.": "0.56"
+      }, 
+      {
+        "Container Corporation Of India Ltd.": "0.53"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 95.02"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 4.98"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P CNX Nifty Index", 
+    "fundCategory": "Equity", 
+    "name": "BOI AXA EQUITY FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0001", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "17.39", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 23.96 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "20.3", 
+    "threeYearReturnPrice": [
+      "11.69", 
+      "  13.41"
+    ], 
+    "sixMonthsReturnPrice": "24.5", 
+    "threeYearSharpeRatioPrice": "0.38", 
+    "fiveYearReturnPrice": [
+      "8.26", 
+      "  14.42"
+    ], 
+    "oneYearStandardDeviation": "17.39", 
+    "twoYearReturnPrice": [
+      "23.85", 
+      "  26.40"
+    ], 
+    "oneYearReturnPrice": [
+      "34.46", 
+      "  36.76"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "32.26 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "March 5, 2010", 
+    "endDate": "N/A", 
+    "founded": "March 5, 2010", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Infrastructure", 
+    "exitLoad": "1% if redeemed within one year from the date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "IDFC Ltd.": "2.00"
+      }, 
+      {
+        "Carborundum Universal Ltd.": "1.20"
+      }, 
+      {
+        "Torrent Power Ltd.": "1.01"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Sesa Sterlite Ltd.": "1.13"
+      }, 
+      {
+        "Petronet LNG Ltd.": "1.03"
+      }, 
+      {
+        "Apar Industries Ltd.": "1.01"
+      }, 
+      {
+        "Triveni Turbine Ltd.": "0.95"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 97.14"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 2.86"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE 100 Index", 
+    "fundCategory": "Equity", 
+    "name": "BOI AXA FOCUSED INFRASTRUCTURE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0018", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "26.6", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 11.00 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "43.0", 
+    "threeYearReturnPrice": [
+      "5.86", 
+      "  8.50"
+    ], 
+    "sixMonthsReturnPrice": "42.3", 
+    "threeYearSharpeRatioPrice": "0.11", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  7.90"
+    ], 
+    "oneYearStandardDeviation": "26.6", 
+    "twoYearReturnPrice": [
+      "21.51", 
+      "  24.74"
+    ], 
+    "oneYearReturnPrice": [
+      "46.47", 
+      "  49.23"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "7.02 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "July 16, 2008", 
+    "endDate": "N/A", 
+    "founded": "July 16, 2008", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "10:50 AM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Liquid", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 87.63"
+      }, 
+      {
+        "Other": " 12.37"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BOI AXA LIQUID FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0007", 
+    "threeYearVolatilityDate": "June 8, 2014", 
+    "priceDate": "June 8, 2014", 
+    "threeYearVolatility": "0.26", 
+    "sixMonthsReturnDate": "June 8, 2014", 
+    "price": "Rs. 1,501.57 (June 8, 2014)", 
+    "threeMonthsReturnDate": "June 8, 2014", 
+    "threeYearSharpeRatioDate": "June 8, 2014", 
+    "threeMonthsReturnPrice": "2.3", 
+    "threeYearReturnPrice": [
+      "8.72", 
+      "  9.12"
+    ], 
+    "sixMonthsReturnPrice": "4.5", 
+    "threeYearSharpeRatioPrice": "9.06", 
+    "fiveYearReturnPrice": [
+      "7.14", 
+      "  15.54"
+    ], 
+    "oneYearStandardDeviation": "0.26", 
+    "twoYearReturnPrice": [
+      "9.09", 
+      "  8.60"
+    ], 
+    "oneYearReturnPrice": [
+      "9.53", 
+      "  9.20"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "110.34 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "March 20, 2009", 
+    "endDate": "N/A", 
+    "founded": "March 20, 2009", 
+    "top5Holding": [
+      {
+        "State Bank Of India": "  1.35"
+      }, 
+      {
+        "ICICI Bank Ltd.": "  1.34"
+      }, 
+      {
+        "Maruti Suzuki India Ltd.": "  1.24"
+      }, 
+      {
+        "Divis Laboratories Ltd.": "  1.19"
+      }, 
+      {
+        "Power Grid Corporation Of India Ltd.": "  1.19"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "MIP", 
+    "exitLoad": "1 % if redeemed before 12 months from date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Jagran Prakashan Ltd.": "0.45"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Natco Pharma Ltd.": "0.87"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 19.19"
+      }, 
+      {
+        "Debt": " 62.00"
+      }, 
+      {
+        "Other": " 18.81"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "Pharmaceuticals & Drugs": " 3.68"
+      }, 
+      {
+        "Bank - Private": " 3.46"
+      }, 
+      {
+        "Bank - Public": " 1.35"
+      }, 
+      {
+        "Automobiles - Passanger cars": " 1.24"
+      }, 
+      {
+        "Power Generation/Distribution": " 1.19"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL MIP Blended Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BOI AXA REGULAR RETURN FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 10,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0023", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "3.13", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 14.71 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "6.0", 
+    "threeYearReturnPrice": [
+      "8.88", 
+      "  9.44"
+    ], 
+    "sixMonthsReturnPrice": "8.2", 
+    "threeYearSharpeRatioPrice": "0.82", 
+    "fiveYearReturnPrice": [
+      "6.13", 
+      "  8.53"
+    ], 
+    "oneYearStandardDeviation": "3.13", 
+    "twoYearReturnPrice": [
+      "10.49", 
+      "  11.26"
+    ], 
+    "oneYearReturnPrice": [
+      "11.75", 
+      "  12.06"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "4.41 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "December 18, 2008", 
+    "endDate": "N/A", 
+    "founded": "December 18, 2008", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Short Term", 
+    "exitLoad": "0.50% if redeemed within 90 days from date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 96.54"
+      }, 
+      {
+        "Other": " 3.46"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BOI AXA SHORT TERM INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0013", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "1.02", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 13.95 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.8", 
+    "threeYearReturnPrice": [
+      "7.65", 
+      "  9.19"
+    ], 
+    "sixMonthsReturnPrice": "4.3", 
+    "threeYearSharpeRatioPrice": "1.36", 
+    "fiveYearReturnPrice": [
+      "6.59", 
+      "  13.07"
+    ], 
+    "oneYearStandardDeviation": "1.02", 
+    "twoYearReturnPrice": [
+      "7.71", 
+      "  9.10"
+    ], 
+    "oneYearReturnPrice": [
+      "7.51", 
+      "  7.82"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "14.73 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 27, 2009", 
+    "endDate": "N/A", 
+    "founded": "February 27, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "ELSS", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 500 / -", 
+    "minRedemptionAmount": "Rs. 500", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Mindtree Ltd.": "1.17"
+      }, 
+      {
+        "IDFC Ltd.": "1.09"
+      }, 
+      {
+        "NMDC Ltd.": "0.90"
+      }, 
+      {
+        "Britannia Industries Ltd.": "0.84"
+      }, 
+      {
+        "Gruh Finance Ltd.": "0.80"
+      }
+    ], 
+    "newEntry": [
+      {
+        "The Ramco Cements Ltd.": "1.34"
+      }, 
+      {
+        "Natco Pharma Ltd.": "1.21"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 95.73"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 4.27"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P CNX Nifty Index", 
+    "fundCategory": "Equity", 
+    "name": "BOI AXA TAX ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 500 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0036", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "17.3", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 31.40 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "20.2", 
+    "threeYearReturnPrice": [
+      "12.82", 
+      "  14.30"
+    ], 
+    "sixMonthsReturnPrice": "25.4", 
+    "threeYearSharpeRatioPrice": "0.44", 
+    "fiveYearReturnPrice": [
+      "11.14", 
+      "  13.94"
+    ], 
+    "oneYearStandardDeviation": "17.3", 
+    "twoYearReturnPrice": [
+      "26.19", 
+      "  27.38"
+    ], 
+    "oneYearReturnPrice": [
+      "37.54", 
+      "  38.88"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "13.42 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "July 18, 2008", 
+    "endDate": "N/A", 
+    "founded": "July 18, 2008", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "0.25% if redeemed within 7 days from date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 92.73"
+      }, 
+      {
+        "Other": " 7.27"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "fundCategory": "Debt", 
+    "name": "BOI AXA TREASURY ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0010", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "0.55", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 1,533.04 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.6", 
+    "threeYearReturnPrice": [
+      "8.90", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.7", 
+    "threeYearSharpeRatioPrice": "4.61", 
+    "fiveYearReturnPrice": [
+      "7.49", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "0.55", 
+    "twoYearReturnPrice": [
+      "9.20", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "9.45", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "25.1 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 10, 1995", 
+    "endDate": "N/A", 
+    "founded": "February 10, 1995", 
+    "top5Holding": [
+      {
+        "Larsen & Toubro Ltd.": "  4.31"
+      }, 
+      {
+        "ICICI Bank Ltd.": "  4.23"
+      }, 
+      {
+        "HDFC Bank Ltd.": "  2.61"
+      }, 
+      {
+        "Tata Consultancy Services Ltd.": "  2.55"
+      }, 
+      {
+        "Infosys Ltd.": "  2.40"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Balanced", 
+    "exitLoad": "For redemption/switch-out of units within 365 days from the date of allotment: 1.00% of applicable NAV.For redemption/switch-out of units after 365 days from the date of allotment: Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Britannia Industries Ltd.": "0.62"
+      }, 
+      {
+        "Nestle India Ltd.": "0.31"
+      }, 
+      {
+        "NMDC Ltd.": "0.22"
+      }, 
+      {
+        "Thermax Ltd.": "0.13"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Natco Pharma Ltd.": "0.42"
+      }, 
+      {
+        "Gujarat State Petronet Ltd.": "0.32"
+      }, 
+      {
+        "LIC Housing Finance Ltd.": "0.31"
+      }, 
+      {
+        "Jagran Prakashan Ltd.": "0.23"
+      }, 
+      {
+        "Pidilite Industries Ltd.": "0.05"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 72.20"
+      }, 
+      {
+        "Debt": " 23.47"
+      }, 
+      {
+        "Other": " 4.34"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "Bank - Private": " 13.12"
+      }, 
+      {
+        "IT - Software": " 9.22"
+      }, 
+      {
+        "Pharmaceuticals & Drugs": " 5.40"
+      }, 
+      {
+        "Engineering - Construction": " 4.31"
+      }, 
+      {
+        "Finance - NBFC": " 3.24"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Balanced Fund Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BSL 95 FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0044", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "14.46", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 457.03 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "21.8", 
+    "threeYearReturnPrice": [
+      "13.88", 
+      "  13.33"
+    ], 
+    "sixMonthsReturnPrice": "26.9", 
+    "threeYearSharpeRatioPrice": "0.56", 
+    "fiveYearReturnPrice": [
+      "14.77", 
+      "  13.60"
+    ], 
+    "oneYearStandardDeviation": "14.46", 
+    "twoYearReturnPrice": [
+      "24.78", 
+      "  22.94"
+    ], 
+    "oneYearReturnPrice": [
+      "31.85", 
+      "  30.63"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "385.03 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 24, 1995", 
+    "endDate": "N/A", 
+    "founded": "February 24, 1995", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Large Cap", 
+    "exitLoad": "For redemption/switch-out of units within 365 days from the date of allotment: 1 % of applicable NAV.For redemption/switch-out of units after 365 days from the date of allotment: Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "HDFC Bank Ltd.": "1.93"
+      }, 
+      {
+        "Infosys Ltd.": "1.70"
+      }, 
+      {
+        "ING Vysya Bank Ltd.": "1.57"
+      }, 
+      {
+        "Adani Enterprises Ltd.": "1.48"
+      }, 
+      {
+        "MRF Ltd.": "1.34"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Ultratech Cement Ltd.": "2.30"
+      }, 
+      {
+        "Natco Pharma Ltd.": "1.99"
+      }, 
+      {
+        "State Bank Of India": "1.53"
+      }, 
+      {
+        "Punjab National Bank": "1.27"
+      }, 
+      {
+        "Hindalco Industries Ltd.": "0.96"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 94.60"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 5.40"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE SENSEX", 
+    "fundCategory": "Equity", 
+    "name": "BSL ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0047", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "22.47", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 233.15 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "31.1", 
+    "threeYearReturnPrice": [
+      "15.25", 
+      "  12.79"
+    ], 
+    "sixMonthsReturnPrice": "38.6", 
+    "threeYearSharpeRatioPrice": "0.48", 
+    "fiveYearReturnPrice": [
+      "12.40", 
+      "  12.79"
+    ], 
+    "oneYearStandardDeviation": "22.47", 
+    "twoYearReturnPrice": [
+      "32.85", 
+      "  25.24"
+    ], 
+    "oneYearReturnPrice": [
+      "53.05", 
+      "  33.43"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "231.98 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 24, 2004", 
+    "endDate": "N/A", 
+    "founded": "February 24, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 100.00"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P CNX NIFTY", 
+    "fundCategory": "Hybrid", 
+    "name": "BSL ASSET ALLOCATION FUND AGGRESSIVE PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0051", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "14.52", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 44.00 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "16.4", 
+    "threeYearReturnPrice": [
+      "9.06", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "20.9", 
+    "threeYearSharpeRatioPrice": "0.26", 
+    "fiveYearReturnPrice": [
+      "11.39", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "14.52", 
+    "twoYearReturnPrice": [
+      "18.15", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "25.95", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "3.63 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 24, 2004", 
+    "endDate": "N/A", 
+    "founded": "February 24, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 100.00"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL MIP Blended Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BSL ASSET ALLOCATION FUND CONSERVATIVE PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0054", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.72", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 26.23 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "8.1", 
+    "threeYearReturnPrice": [
+      "7.94", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "10.4", 
+    "threeYearSharpeRatioPrice": "0.32", 
+    "fiveYearReturnPrice": [
+      "8.01", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "5.72", 
+    "twoYearReturnPrice": [
+      "10.08", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "7.18", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "1.27 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 24, 2004", 
+    "endDate": "N/A", 
+    "founded": "February 24, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 100.00"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Balanced Fund Index", 
+    "fundCategory": "Hybrid", 
+    "name": "BSL ASSET ALLOCATION FUND MODERATE PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0048", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "10.53", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 36.93 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "12.6", 
+    "threeYearReturnPrice": [
+      "9.36", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "16.3", 
+    "threeYearSharpeRatioPrice": "0.33", 
+    "fiveYearReturnPrice": [
+      "10.42", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "10.53", 
+    "twoYearReturnPrice": [
+      "15.40", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "17.70", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "1.53 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "November 25, 2013", 
+    "endDate": "N/A", 
+    "founded": "November 25, 2013", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Banking", 
+    "exitLoad": "For redemption / switch-out of units within 365 days from the date of allotment: 2.00% of applicable NAV. For redemption / switch-out of units after 365 days but within 730 days from the date of allotment: 1.00% of applicable NAV. For redemption / switch-out of units after 730 days from the date of allotment: Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "", 
+    "fundCategory": "Equity", 
+    "name": "BSL BANKING AND FINANCIAL SERVICES FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0669", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 14.19 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "40.4", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  13.45"
+    ], 
+    "sixMonthsReturnPrice": "41.9", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  18.02"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  26.86"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  26.92"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 17, 2012", 
+    "endDate": "N/A", 
+    "founded": "May 17, 2012", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Asset Allocation", 
+    "exitLoad": "1.00%, if redeemed or switched-out upto 12 months from the date of allotment of units. 0.50%, if redeemed or switched-out after completion of 12 months upto 18 months from the date of allotment of units. Nil, if redeemed or switched-out after 18 months from the date of allotment of units.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index + Price of Gold", 
+    "link": 50, 
+    "fundCategory": "Hybrid", 
+    "name": "BNP PARIBAS INCOME & GOLD FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0093", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.37 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "-2.2", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  10.94"
+    ], 
+    "sixMonthsReturnPrice": "-1.5", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  11.49"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "1.82", 
+      "  12.78"
+    ], 
+    "oneYearReturnPrice": [
+      "0.89", 
+      "  15.81"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "February 14, 2014", 
+    "endDate": "N/A", 
+    "founded": "February 14, 2014", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Income", 
+    "exitLoad": "1.00%, if redeemed or switched-out upto 15 months from the date of allotment of units. Nil, if redeemed or switched-out after 15 months from the date of allotment of units.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "", 
+    "link": 52, 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS MEDIUM TERM INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0169", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "-", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 10.37 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "3.7", 
+    "threeYearReturnPrice": [
+      "-", 
+      "  8.16"
+    ], 
+    "sixMonthsReturnPrice": "-", 
+    "threeYearSharpeRatioPrice": "-", 
+    "fiveYearReturnPrice": [
+      "-", 
+      "  5.92"
+    ], 
+    "oneYearStandardDeviation": "-", 
+    "twoYearReturnPrice": [
+      "-", 
+      "  7.25"
+    ], 
+    "oneYearReturnPrice": [
+      "-", 
+      "  7.55"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "May 2, 2006", 
+    "endDate": "N/A", 
+    "founded": "May 2, 2006", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Midcap & Small Cap", 
+    "exitLoad": "1% upto to 1 year, > 1year-NIL", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Indian Bank": "2.37"
+      }, 
+      {
+        "Siemens Ltd.": "1.50"
+      }, 
+      {
+        "Just Dial Ltd.": "0.67"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Cummins India Ltd.": "1.84"
+      }, 
+      {
+        "Bharat Forge Ltd.": "1.53"
+      }, 
+      {
+        "Bharat Electronics Ltd.": "1.47"
+      }, 
+      {
+        "ACC Ltd.": "1.41"
+      }, 
+      {
+        "Bank Of Baroda": "1.05"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 96.55"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 3.45"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CNX MIDCAP Index", 
+    "link": 54, 
+    "fundCategory": "Equity", 
+    "name": "BNP PARIBAS MID CAP FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0010", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "26.88", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 18.11 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "34.4", 
+    "threeYearReturnPrice": [
+      "21.86", 
+      "  19.04"
+    ], 
+    "sixMonthsReturnPrice": "38.2", 
+    "threeYearSharpeRatioPrice": "0.64", 
+    "fiveYearReturnPrice": [
+      "24.72", 
+      "  19.65"
+    ], 
+    "oneYearStandardDeviation": "26.88", 
+    "twoYearReturnPrice": [
+      "34.56", 
+      "  33.83"
+    ], 
+    "oneYearReturnPrice": [
+      "55.10", 
+      "  55.11"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "47.19 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 21, 2005", 
+    "endDate": "N/A", 
+    "founded": "October 21, 2005", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "0.15% shall be charged if units are redeemed/ switched-out within 7 days from the date of investment.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "link": 56, 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS MONEY PLUS FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0094", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.9", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.75 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "9.59", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.4", 
+    "threeYearSharpeRatioPrice": "0.57", 
+    "fiveYearReturnPrice": [
+      "8.72", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "5.9", 
+    "twoYearReturnPrice": [
+      "7.78", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "8.93", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "October 21, 2005", 
+    "endDate": "N/A", 
+    "founded": "October 21, 2005", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "0.15% If redeemed / switched out within 7 days from the date of such Investment , CDSC - Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 86.91"
+      }, 
+      {
+        "Other": " 13.09"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "link": 58, 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS MONEY PLUS FUND- GROWTH #(OC)", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0049", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.13", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.13 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.3", 
+    "threeYearReturnPrice": [
+      "8.43", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.2", 
+    "threeYearSharpeRatioPrice": "0.44", 
+    "fiveYearReturnPrice": [
+      "8.03", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "5.13", 
+    "twoYearReturnPrice": [
+      "9.34", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "8.45", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "5.28 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 23, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 23, 2004", 
+    "top5Holding": [
+      {
+        "Shriram City Union Finance Ltd.": "  1.28"
+      }, 
+      {
+        "HDFC Bank Ltd.": "  1.08"
+      }, 
+      {
+        "ITC Ltd.": "  1.04"
+      }, 
+      {
+        "ICICI Bank Ltd.": "  0.99"
+      }, 
+      {
+        "Motherson Sumi Systems Ltd.": "  0.78"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "MIP", 
+    "exitLoad": "Exit Load - Nil, a CDSC of 1% is payable, if units are Redeemed / Switched-out within a period of less than or equal to 12 months from the date of allotment of such Subscription / Switch-In.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Yes Bank Ltd.": "0.67"
+      }, 
+      {
+        "Union Bank Of India": "0.21"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Sun Pharmaceutical Industries Ltd.": "0.48"
+      }, 
+      {
+        "Axis Bank Ltd.": "0.30"
+      }, 
+      {
+        "State Bank Of India": "0.29"
+      }, 
+      {
+        "Sobha Developers Ltd.": "0.03"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 19.48"
+      }, 
+      {
+        "Debt": " 68.07"
+      }, 
+      {
+        "Other": " 12.45"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "Bank - Private": " 3.30"
+      }, 
+      {
+        "IT - Software": " 1.83"
+      }, 
+      {
+        "Finance - NBFC": " 1.80"
+      }, 
+      {
+        "Pharmaceuticals & Drugs": " 1.69"
+      }, 
+      {
+        "Engineering - Construction": " 1.32"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL MIP Blended Index", 
+    "link": 60, 
+    "fundCategory": "Hybrid", 
+    "name": "BNP PARIBAS MONTHLY INCOME PLAN- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0019", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "5.95", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 19.70 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "7.6", 
+    "threeYearReturnPrice": [
+      "9.49", 
+      "  9.44"
+    ], 
+    "sixMonthsReturnPrice": "9.0", 
+    "threeYearSharpeRatioPrice": "0.55", 
+    "fiveYearReturnPrice": [
+      "7.07", 
+      "  8.53"
+    ], 
+    "oneYearStandardDeviation": "5.95", 
+    "twoYearReturnPrice": [
+      "10.95", 
+      "  11.26"
+    ], 
+    "oneYearReturnPrice": [
+      "11.55", 
+      "  12.06"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "15.97 (March 31, 2014)", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 2, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 2, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "10:50 AM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Liquid", 
+    "exitLoad": "Exit Load : Nil", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "link": 62, 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS OVERNIGHT FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0108", 
+    "threeYearVolatilityDate": "June 8, 2014", 
+    "priceDate": "June 8, 2014", 
+    "threeYearVolatility": "5.82", 
+    "sixMonthsReturnDate": "June 8, 2014", 
+    "price": "Rs. 20.06 (June 8, 2014)", 
+    "threeMonthsReturnDate": "June 8, 2014", 
+    "threeYearSharpeRatioDate": "June 8, 2014", 
+    "threeMonthsReturnPrice": "2.4", 
+    "threeYearReturnPrice": [
+      "10.17", 
+      "  9.12"
+    ], 
+    "sixMonthsReturnPrice": "4.5", 
+    "threeYearSharpeRatioPrice": "0.67", 
+    "fiveYearReturnPrice": [
+      "7.46", 
+      "  15.54"
+    ], 
+    "oneYearStandardDeviation": "5.82", 
+    "twoYearReturnPrice": [
+      "8.64", 
+      "  8.60"
+    ], 
+    "oneYearReturnPrice": [
+      "9.44", 
+      "  9.20"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},{
+  "a": {
+    "startDate": "September 13, 2004", 
+    "endDate": "N/A", 
+    "founded": "September 13, 2004", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "FOR", 
+    "fundClass": "Short Term", 
+    "exitLoad": "0.50% shall be charged if units are redeemed/ switched-out upto 6 months from the date of subscription/ switch-in", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " -"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Short Term Bond Fund Index", 
+    "link": 64, 
+    "fundCategory": "Debt", 
+    "name": "BNP PARIBAS SHORT TERM INCOME FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "FOR0101", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "7.04", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 14.78 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.9", 
+    "threeYearReturnPrice": [
+      "10.35", 
+      "  9.19"
+    ], 
+    "sixMonthsReturnPrice": "4.8", 
+    "threeYearSharpeRatioPrice": "0.58", 
+    "fiveYearReturnPrice": [
+      "8.13", 
+      "  13.07"
+    ], 
+    "oneYearStandardDeviation": "7.04", 
+    "twoYearReturnPrice": [
+      "11.00", 
+      "  9.10"
+    ], 
+    "oneYearReturnPrice": [
+      "7.55", 
+      "  7.82"
+    ]
+  }, 
+  "b": {
+    "name": "BNP PARIBAS ASSET MANAGEMENT INDIA PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "-", 
+    "phone": null, 
+    "addressName": "BNP Paribas House, 1, North Avenue,Maker Maxity, Bandra Kurla Complex, Bandra (E) Mumbai 400051 India.", 
+    "email": null
+  }
+},
+{
+  "a": {
+    "startDate": "February 27, 2009", 
+    "endDate": "N/A", 
+    "founded": "February 27, 2009", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "ELSS", 
+    "exitLoad": "NIL", 
+    "minSubsequentInvest": "Rs. 500 / -", 
+    "minRedemptionAmount": "Rs. 500", 
+    "entryLoad": "-", 
+    "newExit": [
+      {
+        "Mindtree Ltd.": "1.17"
+      }, 
+      {
+        "IDFC Ltd.": "1.09"
+      }, 
+      {
+        "NMDC Ltd.": "0.90"
+      }, 
+      {
+        "Britannia Industries Ltd.": "0.84"
+      }, 
+      {
+        "Gruh Finance Ltd.": "0.80"
+      }
+    ], 
+    "newEntry": [
+      {
+        "The Ramco Cements Ltd.": "1.34"
+      }, 
+      {
+        "Natco Pharma Ltd.": "1.21"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 95.73"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 4.27"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "S&P CNX Nifty Index", 
+    "link": 65, 
+    "fundCategory": "Equity", 
+    "name": "BOI AXA TAX ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 500 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0036", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "17.3", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 31.40 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "20.2", 
+    "threeYearReturnPrice": [
+      "12.82", 
+      "  14.30"
+    ], 
+    "sixMonthsReturnPrice": "25.4", 
+    "threeYearSharpeRatioPrice": "0.44", 
+    "fiveYearReturnPrice": [
+      "11.14", 
+      "  13.94"
+    ], 
+    "oneYearStandardDeviation": "17.3", 
+    "twoYearReturnPrice": [
+      "26.19", 
+      "  27.38"
+    ], 
+    "oneYearReturnPrice": [
+      "37.54", 
+      "  38.88"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "13.42 (March 31, 2014)", 
+    "phone": " 1800 103 2263", 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": " service@boiaxa-im.com"
+  }
+},{
+  "a": {
+    "startDate": "July 18, 2008", 
+    "endDate": "N/A", 
+    "founded": "July 18, 2008", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BAX", 
+    "fundClass": "Ultra Short Term", 
+    "exitLoad": "0.25% if redeemed within 7 days from date of allotment", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "Rs. 1,000", 
+    "entryLoad": "NIL", 
+    "newExit": "N/A", 
+    "newEntry": "N/A", 
+    "composition": [
+      {
+        "Equity": " -"
+      }, 
+      {
+        "Debt": " 92.73"
+      }, 
+      {
+        "Other": " 7.27"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Liquid Fund Index", 
+    "link": 67, 
+    "fundCategory": "Debt", 
+    "name": "BOI AXA TREASURY ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BAX0010", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "0.55", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 1,533.04 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "2.6", 
+    "threeYearReturnPrice": [
+      "8.90", 
+      "  8.65"
+    ], 
+    "sixMonthsReturnPrice": "4.7", 
+    "threeYearSharpeRatioPrice": "4.61", 
+    "fiveYearReturnPrice": [
+      "7.49", 
+      "  10.87"
+    ], 
+    "oneYearStandardDeviation": "0.55", 
+    "twoYearReturnPrice": [
+      "9.20", 
+      "  8.40"
+    ], 
+    "oneYearReturnPrice": [
+      "9.45", 
+      "  8.85"
+    ]
+  }, 
+  "b": {
+    "name": "BOI AXA INVESTMENT MANAGERS PRIVATE LIMITED", 
+    "country": "India.", 
+    "aum": "25.1 (March 31, 2014)", 
+    "phone": " 1800 103 2263", 
+    "addressName": "51, 5th Floor, Kalpataru Synergy, East Wing, Vakola, Santacruz East Mumbai 400055 India.", 
+    "email": " service@boiaxa-im.com"
+  }
+},{
+  "a": {
+    "startDate": "February 10, 1995", 
+    "endDate": "N/A", 
+    "founded": "February 10, 1995", 
+    "top5Holding": [
+      {
+        "Larsen & Toubro Ltd.": "  4.31"
+      }, 
+      {
+        "ICICI Bank Ltd.": "  4.23"
+      }, 
+      {
+        "HDFC Bank Ltd.": "  2.61"
+      }, 
+      {
+        "Tata Consultancy Services Ltd.": "  2.55"
+      }, 
+      {
+        "Infosys Ltd.": "  2.40"
+      }
+    ], 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Balanced", 
+    "exitLoad": "For redemption/switch-out of units within 365 days from the date of allotment: 1.00% of applicable NAV.For redemption/switch-out of units after 365 days from the date of allotment: Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "Britannia Industries Ltd.": "0.62"
+      }, 
+      {
+        "Nestle India Ltd.": "0.31"
+      }, 
+      {
+        "NMDC Ltd.": "0.22"
+      }, 
+      {
+        "Thermax Ltd.": "0.13"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Natco Pharma Ltd.": "0.42"
+      }, 
+      {
+        "Gujarat State Petronet Ltd.": "0.32"
+      }, 
+      {
+        "LIC Housing Finance Ltd.": "0.31"
+      }, 
+      {
+        "Jagran Prakashan Ltd.": "0.23"
+      }, 
+      {
+        "Pidilite Industries Ltd.": "0.05"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 72.20"
+      }, 
+      {
+        "Debt": " 23.47"
+      }, 
+      {
+        "Other": " 4.34"
+      }
+    ], 
+    "top5Sectors": [
+      {
+        "Bank - Private": " 13.12"
+      }, 
+      {
+        "IT - Software": " 9.22"
+      }, 
+      {
+        "Pharmaceuticals & Drugs": " 5.40"
+      }, 
+      {
+        "Engineering - Construction": " 4.31"
+      }, 
+      {
+        "Finance - NBFC": " 3.24"
+      }
+    ], 
+    "FundType": "Open-Ended", 
+    "benchmark": "CRISIL Balanced Fund Index", 
+    "link": 69, 
+    "fundCategory": "Hybrid", 
+    "name": "BSL 95 FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0044", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "14.46", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 457.03 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "21.8", 
+    "threeYearReturnPrice": [
+      "13.88", 
+      "  13.33"
+    ], 
+    "sixMonthsReturnPrice": "26.9", 
+    "threeYearSharpeRatioPrice": "0.56", 
+    "fiveYearReturnPrice": [
+      "14.77", 
+      "  13.60"
+    ], 
+    "oneYearStandardDeviation": "14.46", 
+    "twoYearReturnPrice": [
+      "24.78", 
+      "  22.94"
+    ], 
+    "oneYearReturnPrice": [
+      "31.85", 
+      "  30.63"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "385.03 (March 31, 2014)", 
+    "phone": " 1-800-270-7000", 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": " connect@birlasunlife.com"
+  }
+},{
+  "a": {
+    "startDate": "February 24, 1995", 
+    "endDate": "N/A", 
+    "founded": "February 24, 1995", 
+    "top5Holding": "N/A", 
+    "transactionTimeRedemption": "1:50 PM", 
+    "fundHouseId": "BSL", 
+    "fundClass": "Large Cap", 
+    "exitLoad": "For redemption/switch-out of units within 365 days from the date of allotment: 1 % of applicable NAV.For redemption/switch-out of units after 365 days from the date of allotment: Nil.", 
+    "minSubsequentInvest": "Rs. 1,000 / -", 
+    "minRedemptionAmount": "-", 
+    "entryLoad": "NIL", 
+    "newExit": [
+      {
+        "HDFC Bank Ltd.": "1.93"
+      }, 
+      {
+        "Infosys Ltd.": "1.70"
+      }, 
+      {
+        "ING Vysya Bank Ltd.": "1.57"
+      }, 
+      {
+        "Adani Enterprises Ltd.": "1.48"
+      }, 
+      {
+        "MRF Ltd.": "1.34"
+      }
+    ], 
+    "newEntry": [
+      {
+        "Ultratech Cement Ltd.": "2.30"
+      }, 
+      {
+        "Natco Pharma Ltd.": "1.99"
+      }, 
+      {
+        "State Bank Of India": "1.53"
+      }, 
+      {
+        "Punjab National Bank": "1.27"
+      }, 
+      {
+        "Hindalco Industries Ltd.": "0.96"
+      }
+    ], 
+    "composition": [
+      {
+        "Equity": " 94.60"
+      }, 
+      {
+        "Debt": " -"
+      }, 
+      {
+        "Other": " 5.40"
+      }
+    ], 
+    "top5Sectors": "N/A", 
+    "FundType": "Open-Ended", 
+    "benchmark": "BSE SENSEX", 
+    "link": 71, 
+    "fundCategory": "Equity", 
+    "name": "BSL ADVANTAGE FUND- GROWTH", 
+    "country": "India.", 
+    "options": "Growth", 
+    "minInitialInvest": "Rs. 5,000 / -"
+  }, 
+  "c": {
+    "fundId": "BSL0047", 
+    "threeYearVolatilityDate": "June 6, 2014", 
+    "priceDate": "June 6, 2014", 
+    "threeYearVolatility": "22.47", 
+    "sixMonthsReturnDate": "June 6, 2014", 
+    "price": "Rs. 233.15 (June 6, 2014)", 
+    "threeMonthsReturnDate": "June 6, 2014", 
+    "threeYearSharpeRatioDate": "June 6, 2014", 
+    "threeMonthsReturnPrice": "31.1", 
+    "threeYearReturnPrice": [
+      "15.25", 
+      "  12.79"
+    ], 
+    "sixMonthsReturnPrice": "38.6", 
+    "threeYearSharpeRatioPrice": "0.48", 
+    "fiveYearReturnPrice": [
+      "12.40", 
+      "  12.79"
+    ], 
+    "oneYearStandardDeviation": "22.47", 
+    "twoYearReturnPrice": [
+      "32.85", 
+      "  25.24"
+    ], 
+    "oneYearReturnPrice": [
+      "53.05", 
+      "  33.43"
+    ]
+  }, 
+  "b": {
+    "name": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED", 
+    "country": "India.", 
+    "aum": "231.98 (March 31, 2014)", 
+    "phone": " 1-800-270-7000", 
+    "addressName": "One India Bulls Centre ,Tower 1, 17th Flr, Jupiter Mill Compound 841,S.B. Marg,Elphinstone Road Mumbai 400 013 India.", 
+    "email": " connect@birlasunlife.com"
+  }
+},
