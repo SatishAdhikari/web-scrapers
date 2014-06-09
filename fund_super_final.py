@@ -15,7 +15,7 @@ def main():
         
         #print result
         #attr = {}
-        link = 50
+        link = 65
         for r in range(500):
             d = dict()
             attr = dict()
@@ -153,10 +153,10 @@ def main():
             attr['link']                        = link + r
 
             bttr['name']                        = d.get('fundhouse_name')
-            bttr['email']                       = d.get('Email')
+            bttr['email']                       = d.get('Email ')
             bttr['addressName']                 = d.get('fundhouse_address')
             bttr['country']                     = d.get('fundhouse_country')
-            bttr['phone']                       = d.get('Tel')
+            bttr['phone']                       = d.get('Tel ')
             bttr['aum']                         = d.get('AUM (Cr.)')
 
             temp_date = re.search('\((.*)\)', d['Latest NAV Price (Click here for price history)']).group()[1:-1]
