@@ -29,7 +29,7 @@ def main():
     #time.sleep(90)
 
     ans = []
-    for tr in all_tr[5:1000]:
+    for tr in all_tr[5:1000]:                       # Takes time !! (first 1000 data)
         #temp = []
         d = dict()
         all_td = tr.find_elements_by_tag_name('td')
@@ -49,7 +49,7 @@ def main():
     print ans
 
     f = open('amfii_latest.json', 'w')
-    f.write(json.dumps(ans), indent=2)
+    f.write(json.dumps(ans, indent=2))
     f.close()
 
     
