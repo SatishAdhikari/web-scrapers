@@ -1,3 +1,5 @@
+# this code will end with an exception so don't panic !! i.e. when ( i > total number of funds )
+# Not used try catch (Too Lazy :P)
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys 
 from bs4 import BeautifulSoup
@@ -57,7 +59,7 @@ def selectFund(i):
 		for elem in list_content[6:]:
 			temp = elem.split(';')
 			d = dict()
-			
+
 			if len(temp) != 6:
 				continue
 			d['Scheme Code']		=	temp[0]
@@ -85,7 +87,7 @@ def selectFund(i):
 
 def main():
 
-	i = 3
+	i = 15
 	chk = True
 	while chk:
 		chk = selectFund(i)
