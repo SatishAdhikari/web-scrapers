@@ -87,7 +87,7 @@ def selectFund(i):
 
 def main():
 
-	i = 15
+	i = 43
 	chk = True
 	while chk:
 		chk = selectFund(i)
