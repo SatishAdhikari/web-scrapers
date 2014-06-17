@@ -10,7 +10,7 @@ driver = webdriver.Firefox()
 def category(i):
   try:
 
-	driver.get("http://www.moneycontrol.com/mutual-funds/performance-tracker/returns/large-cap.html")
+	driver.get("http://www.moneycontrol.com/mutual-funds/performance-tracker/returns/liquid.html")
 	windowHandle()
 	d = dict()
 	d['i'] = i
@@ -139,12 +139,13 @@ def category(i):
 
 	for elem in q[1:]:
 		r = elem.find_elements_by_tag_name('td')
-		temp = {}
-		temp['equity'] = r[0].text
-		temp['sector'] = r[1].text
-		temp['value'] = r[2].text
-		temp['assets'] = r[3].text
-		d['holdings'].append(temp)
+		if len(r) != 1:
+			temp = {}
+			temp['equity'] = r[0].text
+			temp['sector'] = r[1].text
+			temp['value'] = r[2].text
+			temp['assets'] = r[3].text
+			d['holdings'].append(temp)
 
 	######################	
 	#  Sector Allocation #
@@ -157,12 +158,13 @@ def category(i):
 
 	for elem in q[1:]:
 		r = elem.find_elements_by_tag_name('td')
-		temp = {}
-		temp['sector'] = r[0].text
-		temp['value'] = r[1].text
-		temp['high'] = r[2].text
-		temp['low'] = r[3].text
-		d['sectorAllocation'].append(temp)
+		if len(r) != 1:
+			temp = {}
+			temp['sector'] = r[0].text
+			temp['value'] = r[1].text
+			temp['high'] = r[2].text
+			temp['low'] = r[3].text
+			d['sectorAllocation'].append(temp)
 
 	####################	
 	# Asset Allocation #
@@ -185,31 +187,37 @@ def category(i):
 	#################
 
 	#p = driver.find_element_by_xpath('//*[@id="mmcnt"]/div[2]/div[9]/div[2]/div[2]/table[1]/tbody')
-	p = tbl[5]
-	q = p.find_elements_by_tag_name('tr')
-	d['concentration'] = []
+	if 5 < len(tbl):
 
-	for elem in q[1:]:
-		temp = {}
-		r = elem.find_elements_by_tag_name('td')
-		temp['type'] = 'Holdings'
-		temp['attribute'] = r[0].text
-		temp['value'] = r[1].text
-		d['concentration'].append(temp)
+		p = tbl[5]
+		q = p.find_elements_by_tag_name('tr')
+		d['concentration'] = []
+		temp_type = q[0].find_element_by_tag_name('th').text
+
+		for elem in q[1:]:
+			temp = {}
+			r = elem.find_elements_by_tag_name('td')
+			temp['type'] = temp_type
+			temp['attribute'] = r[0].text
+			temp['value'] = r[1].text
+			d['concentration'].append(temp)
 
 	#p = driver.find_element_by_xpath('//*[@id="mmcnt"]/div[2]/div[9]/div[2]/div[2]/table[2]/tbody')
-	p = tbl[6]
-	q = p.find_elements_by_tag_name('tr')
+	if 6 < len(tbl):
 
-	for elem in q[1:]:
-		r = elem.find_elements_by_tag_name('td')
-		temp = {}
-		temp['type'] = 'Sector'
-		temp['attribute'] = r[0].text
-		temp['value'] = r[1].text
-		d['concentration'].append(temp)
+		p = tbl[6]
+		q = p.find_elements_by_tag_name('tr')
+		temp_type = q[0].find_element_by_tag_name('th').text
 
-	with open('money_new.json', 'a') as data:
+		for elem in q[1:]:
+			r = elem.find_elements_by_tag_name('td')
+			temp = {}
+			temp['type'] = temp_type
+			temp['attribute'] = r[0].text
+			temp['value'] = r[1].text
+			d['concentration'].append(temp)
+
+	with open('money_new_liquid.json', 'a') as data:
 		data.write(json.dumps(d, indent=2))
 		data.write(",")
 
@@ -222,7 +230,7 @@ def category(i):
 
 def main():
     
-    i = 108
+    i = 28
     chk = True
     while chk:
         chk = category(i)
